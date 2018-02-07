@@ -1,0 +1,94 @@
+
+
+
+
+.navbar {font-family: 'Pacifico', cursive;
+         padding-bottom: 20px;
+         display: flexbox;
+         display: block;
+                  
+              
+ }
+
+
+
+/*the words after tech developer*/
+.lead { font-size: 30px;
+        text-align: center;
+        color: #0094ff;
+        transition: all 2s;
+}
+.lead:hover { transform: scale(1.1);}
+
+/* the speech*/
+.container { font-family: 'Archivo Narrow', sans-serif;
+font-size: 30px;
+text-align: center;
+
+
+}
+
+/* this banner*/
+
+.display-4 { font-size: 70px;
+             color: #0094ff;
+             transition: all 3s;
+             
+             
+}
+
+
+
+
+.display-4:hover { transform: scale(1.1);}
+h2,p {font-family: 'Righteous', cursive;
+      
+      
+ }
+img { transition: all 1s;
+      
+      text-align: center;
+      display: flexbox;
+}
+
+img:hover { transform: scale(1.1);
+            text-align: center;
+}
+
+span { font-size: 2em;
+      
+             
+}
+
+/* banner*/
+.jumbotron {background-color: #212529;
+           
+        }
+           
+
+
+/* quote*/
+.card-body { text-align: center;
+             border: 2px solid;
+             flex-order: 
+                 inherit;
+            
+             
+                 
+}
+.card-header { text-align: center;
+              
+                 
+}
+
+.kingkong { float: left;
+            width: 100px;
+            height: 100px;
+}
+
+/*.card-img-top*/
+
+.card-img-top{ 
+           height: 200px;
+           text-align: center;
+}
